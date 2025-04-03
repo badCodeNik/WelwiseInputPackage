@@ -1,8 +1,8 @@
-using _project.Scripts.HeroLogic.Animators;
-using _project.Scripts.Services.Input;
+using HeroLogic.Animators;
+using Input;
 using UnityEngine;
 
-namespace _project.Scripts.HeroLogic
+namespace HeroLogic
 {
     public class Hero : MonoBehaviour
     {

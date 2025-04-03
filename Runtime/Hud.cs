@@ -1,4 +1,4 @@
-using _project.Scripts.Services.Input;
+using Input;
 using UnityEngine;
 
 public class Hud : MonoBehaviour

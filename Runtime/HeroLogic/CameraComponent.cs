@@ -1,8 +1,7 @@
 using System;
-using _project.Scripts.Services;
 using UnityEngine;
 
-namespace _project.Scripts.HeroLogic
+namespace HeroLogic
 {
     public class CameraComponent : MonoBehaviour
     {

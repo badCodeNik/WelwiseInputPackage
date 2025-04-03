@@ -1,4 +1,4 @@
-namespace _project.Scripts.Services.Input
+namespace Input
 {
     public interface IDesktopInputHandler : IInputHandler, ICursorHandler
     {

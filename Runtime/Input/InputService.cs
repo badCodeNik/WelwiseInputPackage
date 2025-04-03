@@ -1,7 +1,8 @@
 using _project.Scripts.HeroLogic;
+using HeroLogic;
 using UnityEngine;
 
-namespace _project.Scripts.Services.Input
+namespace Input
 {
     public class InputService : MonoBehaviour
     {

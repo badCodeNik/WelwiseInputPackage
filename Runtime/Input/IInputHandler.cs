@@ -1,6 +1,4 @@
-using System;
-
-namespace _project.Scripts.Services.Input
+namespace Input
 {
     public interface IInputHandler
     {

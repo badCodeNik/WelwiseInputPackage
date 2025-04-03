@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace _project.Scripts.HeroLogic.Animators
+namespace HeroLogic.Animators
 {
     public class HeroAnimatorController : MonoBehaviour
     {

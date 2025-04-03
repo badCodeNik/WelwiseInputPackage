@@ -1,7 +1,7 @@
-using _project.Scripts.HeroLogic.Animators;
+using HeroLogic.Animators;
 using UnityEngine;
 
-namespace _project.Scripts.HeroLogic
+namespace HeroLogic
 {
     public class MoveComponent : MonoBehaviour
     {

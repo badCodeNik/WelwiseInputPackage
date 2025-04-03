@@ -1,7 +1,6 @@
-using System;
 using UnityEngine;
 
-namespace _project.Scripts.Services.Input
+namespace Input
 {
     public class InputHandler : IDesktopInputHandler
     {
