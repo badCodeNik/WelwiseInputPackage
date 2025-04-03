@@ -1,0 +1,21 @@
+{
+  "name": "com.welwise.character",
+  "displayName": "Welwise character",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Это пакет с персонажем и встроенным модулем управления студии Welwise.",
+  "keywords": ["unity", "tools", "utility"],
+  "category": "Input",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  },
+  "author": {
+    "name": "badCodeNik",
+    "email": "badcode.Nik@gmail.com",
+    "url": "https://github.com/your-username"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/badCodeNik/WelwiseInputPackage"
+  }
+}
