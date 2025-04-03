@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hair
-  m_Shader: {fileID: 4800000, guid: b4c105758d5b4a04ea9e9f1b5205c09b, type: 3}
+  m_Shader: {fileID: 4800000, guid: cf09e66a3c093264ebff876b85d49301, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -40,11 +40,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 2800000, guid: 2eb3f28471054b240b36f54cf4d0cc45, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2a0986c1c22928a44bfe6baad58d33fa, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 7502e527e18965642a31a653460ab657, type: 3}
+        m_Texture: {fileID: 2800000, guid: fbe53a0903c25db469f6de984ea59185, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -52,7 +52,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMap:
-        m_Texture: {fileID: 2800000, guid: 0c2c2b49832863448a7d22057eda4303, type: 3}
+        m_Texture: {fileID: 2800000, guid: cc5fcbd97d3810741909c9e84b61baff, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
