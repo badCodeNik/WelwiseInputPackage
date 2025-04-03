@@ -65,7 +65,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: de73d4ce1dc6f6d4987ac71ee802763d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7e8a9dfd1fbcfba45bd230641fff3632, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -86,7 +86,7 @@ GameObject:
   - component: {fileID: 8660883505587063038}
   - component: {fileID: 2351756156123369356}
   - component: {fileID: 8776276851535456243}
-  - component: {fileID: 158866773419239832}
+  - component: {fileID: 1917967004136881862}
   m_Layer: 5
   m_Name: CameraSwitchBackground
   m_TagString: Untagged
@@ -152,7 +152,7 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &158866773419239832
+--- !u!114 &1917967004136881862
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -161,7 +161,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1959489585860168464}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 22e620cca38844e4baf881f7be384f10, type: 3}
+  m_Script: {fileID: 11500000, guid: 8432748db77674c4e8b9f04edddccb04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &4134536064208278725
@@ -176,7 +176,7 @@ GameObject:
   - component: {fileID: 2955500405778131244}
   - component: {fileID: 4571525421428553269}
   m_Layer: 5
-  m_Name: Jump
+  m_Name: CameraSwitch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -229,7 +229,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 4e7f34360ebb2f048bf8d5e99fd60a93, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 880469882c0813048af652536ddd38ac, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -250,7 +250,7 @@ GameObject:
   - component: {fileID: 995139601144333166}
   - component: {fileID: 39043176150634516}
   - component: {fileID: 2590746765441147863}
-  - component: {fileID: 2661441244835790351}
+  - component: {fileID: 8244754111414464186}
   m_Layer: 5
   m_Name: JumpBackground
   m_TagString: Untagged
@@ -316,7 +316,7 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &2661441244835790351
+--- !u!114 &8244754111414464186
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -325,7 +325,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 6908630679084488252}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 22e620cca38844e4baf881f7be384f10, type: 3}
+  m_Script: {fileID: 11500000, guid: 8432748db77674c4e8b9f04edddccb04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &7522200768102151011
@@ -393,7 +393,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d360c761a90c641d9b704106d9dacba1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6d8c88074dc15df419a213e6fada2f2b, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -469,7 +469,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 16700c99bb48846b88122dbc396d1ffb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 82d66546ad63faa4ca9b7816a63d30d3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -490,7 +490,7 @@ GameObject:
   - component: {fileID: 7522200768405998872}
   - component: {fileID: 7522200768405998877}
   - component: {fileID: 7522200768405998874}
-  - component: {fileID: 7771145347180043468}
+  - component: {fileID: 6637725149672286464}
   m_Layer: 5
   m_Name: Joystick
   m_TagString: Untagged
@@ -556,7 +556,7 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &7771145347180043468
+--- !u!114 &6637725149672286464
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -565,7 +565,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 7522200768405998873}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6b30bdf91b804a889efcb04695746552, type: 3}
+  m_Script: {fileID: 11500000, guid: a1b6bf6adf5582a4794aa97a25653b71, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _joystickBackground: {fileID: 7522200768140546403}
@@ -582,7 +582,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3647861199108601254}
-  - component: {fileID: 4598590049950864228}
+  - component: {fileID: 7844382675810461746}
   m_Layer: 5
   m_Name: Hud
   m_TagString: Untagged
@@ -612,7 +612,7 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 600}
   m_Pivot: {x: 0.5, y: 0}
---- !u!114 &4598590049950864228
+--- !u!114 &7844382675810461746
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -621,9 +621,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 8234799982295062153}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3ef45a386235ac34fb0869df9685e70f, type: 3}
+  m_Script: {fileID: 11500000, guid: 614f3908c9fd4219a0ba5d7a251f7fc6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _joystick: {fileID: 7771145347180043468}
-  _jumpButton: {fileID: 2661441244835790351}
-  _cameraSwitchButton: {fileID: 158866773419239832}
+  _joystick: {fileID: 6637725149672286464}
+  _jumpButton: {fileID: 8244754111414464186}
+  _cameraSwitchButton: {fileID: 1917967004136881862}

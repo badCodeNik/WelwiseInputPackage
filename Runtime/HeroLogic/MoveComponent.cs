@@ -10,7 +10,6 @@ namespace HeroLogic
         [SerializeField] private float _rotationSpeed;
         [SerializeField] private float _jumpForce;
         [SerializeField] private float _gravityForce;
-        [SerializeField] private bool _isOnlineMode;
 
 
         private Vector3 _lastDirection;
@@ -24,11 +23,9 @@ namespace HeroLogic
 
         public void SetDirection(Vector3 direction)
         {
-            
-                _lastDirection = direction;
-            
+            _lastDirection = direction;
         }
-        
+
 
         public void Initialize(CameraComponent cameraComponent, HeroAnimatorController animatorComponent,
             ArmsAnimatorController armsAnimatorComponent)
